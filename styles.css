@@ -19,3 +19,7 @@ hl {
     color: darkblue;
     text-align:center;
 }
+
+a {
+    text-decoration:goldenrod;
+}
